@@ -1,13 +1,9 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
-guid: 1c56a7610dd5ffc45adb97110e42dac8
-=======
 <<<<<<<< HEAD:Assets/New Material 1.mat.meta
-guid: c6d9e000e4214f346b48f1191e8e1727
+guid: 997ab0bd548c2a448a6d5a70be594500
 ========
 guid: 1c56a7610dd5ffc45adb97110e42dac8
 >>>>>>>> 7cff354b9a183fe3c75072185b103e056f99a876:Assets/Scenes/New Material 1.mat.meta
->>>>>>> Stashed changes
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000

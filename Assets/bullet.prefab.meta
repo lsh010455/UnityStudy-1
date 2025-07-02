@@ -1,13 +1,9 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
-guid: 572c2143837ea90479e239718429e157
-=======
 <<<<<<<< HEAD:Assets/bullet.prefab.meta
-guid: 430ab9bfd7e97104086107f2243f60db
+guid: a4e28583b0ff5564d933914e1c606980
 ========
 guid: 572c2143837ea90479e239718429e157
 >>>>>>>> 7cff354b9a183fe3c75072185b103e056f99a876:Assets/Scenes/Bullet.prefab.meta
->>>>>>> Stashed changes
 PrefabImporter:
   externalObjects: {}
   userData: 

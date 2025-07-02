@@ -7,7 +7,23 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Scenes/New Material.mat
   m_Name: New Material
+========
+<<<<<<<< HEAD:Assets/player.mat
+  m_Name: player
+========
+  m_Name: New Material 2
+>>>>>>>> 7cff354b9a183fe3c75072185b103e056f99a876:Assets/Scenes/New Material 2.mat
+>>>>>>>> Stashed changes:Assets/player.mat
+=======
+<<<<<<<< HEAD:Assets/New Material 1.mat
+  m_Name: New Material 1
+========
+  m_Name: New Material
+>>>>>>>> 7cff354b9a183fe3c75072185b103e056f99a876:Assets/Scenes/New Material.mat
+>>>>>>> Stashed changes
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -78,6 +94,22 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Scenes/New Material.mat
     - _Color: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 1}
+========
+<<<<<<<< HEAD:Assets/player.mat
+    - _Color: {r: 0, g: 0.49159408, b: 1, a: 1}
+========
+    - _Color: {r: 1, g: 0, b: 0, a: 1}
+>>>>>>>> 7cff354b9a183fe3c75072185b103e056f99a876:Assets/Scenes/New Material 2.mat
+>>>>>>>> Stashed changes:Assets/player.mat
+=======
+<<<<<<<< HEAD:Assets/New Material 1.mat
+    - _Color: {r: 1, g: 0, b: 0.049950123, a: 1}
+========
+    - _Color: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 1}
+>>>>>>>> 7cff354b9a183fe3c75072185b103e056f99a876:Assets/Scenes/New Material.mat
+>>>>>>> Stashed changes
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
