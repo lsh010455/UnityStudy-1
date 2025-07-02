@@ -17,6 +17,7 @@ public class GameManager : MonoBehaviour
     {
         time = 0f;
         isGameOver = false;
+        GameOverText.SetActive(false);
     }
 
     // Update is called once per frame
@@ -25,7 +26,7 @@ public class GameManager : MonoBehaviour
         if(!isGameOver)
         {
             time += Time.deltaTime;
-            TimeText.text = "Time:" + time;
+            TimeText.text = "Time: " + time;
         }
         else
         {
@@ -40,7 +41,7 @@ public class GameManager : MonoBehaviour
         isGameOver = true;
         GameOverText.SetActive(true);
 
-        float bestTime;
+        float bestTime = PlayerPrefs.GetFloat("BestTime", 0f);
 
         if(!PlayerPrefs.HasKey("BestTime")) { bestTime = 0f; }
         else { bestTime = PlayerPrefs.GetFloat("BestTime");  }
